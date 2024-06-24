@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "328e",
+      "cityName": "Lebanon",
+      "country": "United States of America (the)",
+      "countryCode": "US",
+      "date": "2024-06-23T03:44:53.136Z",
+      "notes": "",
+      "position": {
+        "lat": "41.63392025225952",
+        "lng": "-72.22206115722658"
+      }
+    }
+  ]
+}
